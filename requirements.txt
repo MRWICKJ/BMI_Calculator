@@ -1,0 +1,4 @@
+# requirements.txt
+
+# This project currently only uses the built-in tkinter library,
+# which does not require installation through pip.
