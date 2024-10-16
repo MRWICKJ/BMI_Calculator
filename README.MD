@@ -67,13 +67,3 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
-### Key Changes:
-- Updated the **Usage** section to reflect how to run both the command-line and GUI versions using the module structure.
-- Added a note about running the package directly, which allows users to invoke the appropriate entry point.
-
-### Next Steps:
-1. **Update Links**: Don't forget to replace `yourusername` with your actual GitHub username in the clone link.
-2. **Check Filenames**: Ensure that the command lines match the structure and filenames in your project.
-
-Let me know if you need any further adjustments or additional information!
